@@ -1,6 +1,10 @@
 # Patient Length of Stay (LOS) Prediction
 Machine learning project to predict patient Length of Stay (LOS) in hospitals using a multiclass classification approach, with extensive EDA, model training, and hyperparameter tuning.
 
+-----CODE IN RMD FILE
+-----RESULT IN THE WORD FILE
+
+
 
 This repository contains a comprehensive data science project aimed at predicting the **Length of Stay (LOS)** of patients in hospitals using machine learning techniques. The goal is to support healthcare management by enabling better resource allocation, infection control, and treatment optimization.
 
